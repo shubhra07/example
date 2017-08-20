@@ -1,2 +1,9 @@
+project/
+target
+.idea
+*.iml
+scalastyle
 *.class
 *.log
+assignment.sbt
+
